@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/dearest-shiva/static/css/main.5019dc42.css",
-    "main.js": "/dearest-shiva/static/js/main.c1baab32.js",
+    "main.js": "/dearest-shiva/static/js/main.6cb5874c.js",
     "index.html": "/dearest-shiva/index.html",
     "main.5019dc42.css.map": "/dearest-shiva/static/css/main.5019dc42.css.map",
-    "main.c1baab32.js.map": "/dearest-shiva/static/js/main.c1baab32.js.map"
+    "main.6cb5874c.js.map": "/dearest-shiva/static/js/main.6cb5874c.js.map"
   },
   "entrypoints": [
     "static/css/main.5019dc42.css",
-    "static/js/main.c1baab32.js"
+    "static/js/main.6cb5874c.js"
   ]
 }
